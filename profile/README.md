@@ -1,4 +1,4 @@
-# Wingreen Lab at Princeton University
+# The Wingreen Lab at Princeton University
 
 - This page houses all the code written and produced in the Wingreen Lab at Princeton University.
 
